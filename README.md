@@ -1,6 +1,6 @@
 # Book Store MERN stack project
 
-## Lessons
+## STEPS
 
  Create Node.js project from scratch
  Create our first Http Route
